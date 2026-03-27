@@ -3,26 +3,26 @@ Hi, I'm Tanisha
 CS undergrad at **PES University** who loves building tools at the intersection of software and science. Currently exploring ML & AI research — especially making scientific computing more accessible and efficient.
 
 
-🔭 What I'm working on
+ * What I'm working on
 
 -> [scigrad](https://github.com/tanisha2616/scigrad)** — a lazy tensor framework that's a drop-in for NumPy-based scientific computing and ML workloads (autodiff, neural nets, training loops)
 
 -> [Redline](https://github.com/tanisha2616/Redline)** — a Python library for spectroscopic data analysis. Load, normalize, identify lines, and measure redshift in three lines of code
 
 
-🎓 Education
+* Education
 B.Tech in Computer Science & Engineering · PES University, Bengaluru
 
 
-🌱 Currently learning
+* Currently learning
 Autodiff internals · Neural network optimization · Systems-level ML
 
 
-💬 Looking for
+* Looking for
 ML / AI research internships — open to research labs, AI startups, or open-source orgs
 
 
-📫 Reach me at
+* Reach me at
 tanishamangal26@gmail.com
 
 
@@ -32,7 +32,7 @@ Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanishamangal26@gmail.com)
 
 
-🛠️ Skills
+* Skills
 
 **ML & DL**
 `PyTorch` `TensorFlow` `Scikit-learn` `YOLOv8` `Transformers` `CNNs` `Autodiff` `Lazy Graph Execution`
