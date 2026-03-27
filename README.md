@@ -4,7 +4,9 @@ CS undergrad at **PES University** who loves building tools at the intersection 
 
 
 🔭 What I'm working on
+
 -> [scigrad](https://github.com/tanisha2616/scigrad)** — a lazy tensor framework that's a drop-in for NumPy-based scientific computing and ML workloads (autodiff, neural nets, training loops)
+
 -> [Redline](https://github.com/tanisha2616/Redline)** — a Python library for spectroscopic data analysis. Load, normalize, identify lines, and measure redshift in three lines of code
 
 
